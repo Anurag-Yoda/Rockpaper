@@ -1,0 +1,48 @@
+body{
+    
+    background : black;
+    color : white;
+
+}
+
+h1{
+
+    text-align: center;
+    color: yellow;
+
+}
+
+.game {
+
+text-align: center;
+font-size: 24px;
+color: yellow;
+
+
+}
+
+#result{
+
+font-size: 36px;
+font-weight: bold;
+
+
+}
+
+#Userchoicefilled{
+
+color: lightblue;
+
+
+}
+
+#Compchoicefilled{
+
+color: lightpink;
+
+}
+
+#btn {
+
+    text-align: center;
+}
